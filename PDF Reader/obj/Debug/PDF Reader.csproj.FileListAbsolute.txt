@@ -1,0 +1,21 @@
+S:\2 CS\OOP Project C#\PDF Reader\bin\Debug\PDF Reader.exe.config
+S:\2 CS\OOP Project C#\PDF Reader\bin\Debug\PDF Reader.exe
+S:\2 CS\OOP Project C#\PDF Reader\bin\Debug\PDF Reader.pdb
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF Reader.csproj.AssemblyReference.cache
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF Reader.csproj.SuggestedBindingRedirects.cache
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF_Reader.Form1.resources
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF_Reader.Properties.Resources.resources
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF Reader.csproj.GenerateResource.cache
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF Reader.csproj.CoreCompileInputs.cache
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF Reader.exe
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF Reader.pdb
+S:\2 CS\OOP Project C#\PDF Reader\bin\Debug\Interop.AcroPDFLib.dll
+S:\2 CS\OOP Project C#\PDF Reader\bin\Debug\AxInterop.AcroPDFLib.dll
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\Interop.AcroPDFLib.dll
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\AxInterop.AcroPDFLib.dll
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF Reader.csproj.ResolveComReference.cache
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF_Reader.Form2.resources
+S:\2 CS\OOP Project C#\PDF Reader\bin\Debug\itextsharp.dll
+S:\2 CS\OOP Project C#\PDF Reader\bin\Debug\itextsharp.pdfa.dll
+S:\2 CS\OOP Project C#\PDF Reader\bin\Debug\itextsharp.xtra.dll
+S:\2 CS\OOP Project C#\PDF Reader\obj\Debug\PDF Reader.csproj.CopyComplete
